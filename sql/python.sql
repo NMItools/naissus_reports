@@ -1,0 +1,1 @@
+[izv].[sp_IZVORISTA_dat_interval] '2019-01-01', '2020-12-01'
